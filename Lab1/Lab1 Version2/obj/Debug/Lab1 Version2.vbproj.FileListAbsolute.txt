@@ -1,0 +1,9 @@
+C:\Users\littl_000\Desktop\Visual Basic\Lab1\Lab1 Version2\bin\Debug\Lab1 Version2.exe.config
+C:\Users\littl_000\Desktop\Visual Basic\Lab1\Lab1 Version2\bin\Debug\Lab1 Version2.exe
+C:\Users\littl_000\Desktop\Visual Basic\Lab1\Lab1 Version2\bin\Debug\Lab1 Version2.pdb
+C:\Users\littl_000\Desktop\Visual Basic\Lab1\Lab1 Version2\bin\Debug\Lab1 Version2.xml
+C:\Users\littl_000\Desktop\Visual Basic\Lab1\Lab1 Version2\obj\Debug\Lab1_Version2.Resources.resources
+C:\Users\littl_000\Desktop\Visual Basic\Lab1\Lab1 Version2\obj\Debug\Lab1 Version2.vbproj.GenerateResource.Cache
+C:\Users\littl_000\Desktop\Visual Basic\Lab1\Lab1 Version2\obj\Debug\Lab1 Version2.exe
+C:\Users\littl_000\Desktop\Visual Basic\Lab1\Lab1 Version2\obj\Debug\Lab1 Version2.xml
+C:\Users\littl_000\Desktop\Visual Basic\Lab1\Lab1 Version2\obj\Debug\Lab1 Version2.pdb
